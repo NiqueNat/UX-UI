@@ -92,24 +92,6 @@ font-family: 'Times New Roman', Times, serif;
 	background-size: cover;
 }
 
-/* Define the keyframes */
-@keyframes scaleInOut {
-  0% {
-    transform: scale(80%); /* Start with normal size (100%) */
-  }
-  50% {
-    transform: scale(100%); /* Scale up to 120% midway through the animation */
-  }
-  100% {
-    transform: scale(80%); /* Back to normal size (100%) at the end */
-  }
-}
-
-/* Apply the animation to the image */
-.block2 {
-  animation: scaleInOut 4s ease-in-out infinite; 
-}
-
   nav {
     
     position: fixed;

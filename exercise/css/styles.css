@@ -145,7 +145,7 @@ main {
 }
 
 .img {
-    background-image: url("./drawers.jpg");
+    background-image: url("../drawers.jpg");
     background-size: contain;
     background-repeat: no-repeat;
     border-radius: 10px;

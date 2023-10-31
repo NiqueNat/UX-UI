@@ -1,2 +1,2 @@
-# UX/UI
-UX/UI for storage
+# ui-ux
+ui-ux for storage
